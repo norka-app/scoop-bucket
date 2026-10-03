@@ -1,0 +1,22 @@
+{
+    "version": "1.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/norka-app/Norka/releases/download/v1.5.0/norka-cli_1.5.0_windows_amd64.zip",
+            "bin": [
+                "norka-cli.exe"
+            ],
+            "hash": "f387202f2a294055a69e1bcdb38d1fa22bd3fbdbad799930c98e3f7e11707c57"
+        },
+        "arm64": {
+            "url": "https://github.com/norka-app/Norka/releases/download/v1.5.0/norka-cli_1.5.0_windows_arm64.zip",
+            "bin": [
+                "norka-cli.exe"
+            ],
+            "hash": "b3ef969d91a433b2953e1620e0a91e7417fd1fccae8411636a83d28a4e1d16e4"
+        }
+    },
+    "homepage": "https://github.com/norka-app/Norka",
+    "license": "MIT",
+    "description": "Command-line client for the Norka tunnel app."
+}
