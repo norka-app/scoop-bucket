@@ -1,0 +1,23 @@
+{
+    "version": "1.8.0",
+    "description": "SSH tunnel manager",
+    "homepage": "https://github.com/norka-app/Norka",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/norka-app/Norka/releases/download/v1.8.0/norka.exe",
+            "hash": "e7d941981562849cbd39c7d900263f31513207a107a0fb65d8ae7fdcb069ab99",
+            "bin": "norka.exe"
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/norka-app/Norka"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/norka-app/Norka/releases/download/v$version/norka.exe"
+            }
+        }
+    }
+}
