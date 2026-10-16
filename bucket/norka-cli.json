@@ -1,21 +1,21 @@
 {
-    "version": "1.6.1",
+    "version": "1.8.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/norka-app/Norka/releases/download/v1.6.1/norka-cli_1.6.1_windows_amd64.zip",
+            "url": "https://github.com/norka-app/Norka/releases/download/v1.8.0/norka-cli_1.8.0_windows_amd64.zip",
             "bin": [
                 "norka-cli.exe",
                 "norkad.exe"
             ],
-            "hash": "aaa3e9a68f86885b5e25d2c10b40ac4d42a33807d50821b9748ba6126785176f"
+            "hash": "5c9c339212bb0b98263aae2d4e63bf1ac7f311f97001260a9b6490d9af1bac80"
         },
         "arm64": {
-            "url": "https://github.com/norka-app/Norka/releases/download/v1.6.1/norka-cli_1.6.1_windows_arm64.zip",
+            "url": "https://github.com/norka-app/Norka/releases/download/v1.8.0/norka-cli_1.8.0_windows_arm64.zip",
             "bin": [
                 "norka-cli.exe",
                 "norkad.exe"
             ],
-            "hash": "199feb53e077dbbfd5be457f5c1e58f59d50b163951b6bff99edb73d8f91dc14"
+            "hash": "9417ffeca53387ce929ee0f7d95d1a6735f54be0e19165c00a0a47643465f7ce"
         }
     },
     "homepage": "https://github.com/norka-app/Norka",
